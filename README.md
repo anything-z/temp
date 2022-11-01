@@ -37,6 +37,7 @@ CUWA v1.0 including
 - Installation  
 - Training up to 5 staff members
 - 3 months post installation support
+
 Cost D300,000
 
 ## Optionals
